@@ -1,4 +1,4 @@
-# Curso de Ciência de Dados
+# Notas de aula , fundamentos de Data Science com Python
 
 ## Ementa
 
